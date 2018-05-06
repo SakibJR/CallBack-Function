@@ -20,3 +20,6 @@ function addUserName(Name, print){
 addUserName('newName', print);
 addUserName('AnotherNewName', print);
 
+/*------------------------output--------------------------------
+--> //userName = ['sakib', 'Zannat', 'Anything', 'newName']
+--> //userName = ['sakib', 'Zannat', 'Anything', 'newName', 'AnotherNewName']
