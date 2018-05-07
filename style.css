@@ -1,0 +1,29 @@
+a{
+    text-decoration: none;
+}
+
+
+a:active {
+    color: #00f700;
+}
+
+a:link{
+    color: darkviolet;
+}
+
+a:hover{
+    color: #ff0000;
+    background-color: #e9fc06;
+}
+
+a:visited{
+    color: forestgreen;
+}
+
+a:focus{
+    
+}
+
+.unordered-list{
+    list-style-image: url(Edited%20by%20sakib.jpg);
+}
